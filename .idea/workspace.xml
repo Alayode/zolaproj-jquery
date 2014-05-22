@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c62df14b-480d-491d-9a43-714cec8137cd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jay.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Search-2.html" afterPath="$PROJECT_DIR$/Search-2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zolaproj-jquery.iws" />
@@ -233,7 +231,11 @@
       <created>1400721383416</created>
       <updated>1400721383416</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is up-to-date with 'origin/master'.&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   .idea/zolaproj-jquery.iml&#10;#&#9;new file:   Book-Page.html&#10;#&#9;new file:   Search-1.html&#10;#&#9;new file:   Search-2.html&#10;#&#9;new file:   js/app.js&#10;#&#9;new file:   js/jay.js&#10;#&#9;new file:   js/metadata.js&#10;#&#9;new file:   js/script.js&#10;#&#9;new file:   style.css&#10;#&#10;">
+      <created>1400790928589</created>
+      <updated>1400790928589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +295,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is up-to-date with 'origin/master'.&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   .idea/zolaproj-jquery.iml&#10;#&#9;new file:   Book-Page.html&#10;#&#9;new file:   Search-1.html&#10;#&#9;new file:   Search-2.html&#10;#&#9;new file:   js/app.js&#10;#&#9;new file:   js/jay.js&#10;#&#9;new file:   js/metadata.js&#10;#&#9;new file:   js/script.js&#10;#&#9;new file:   style.css&#10;#&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is up-to-date with 'origin/master'.&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   .idea/zolaproj-jquery.iml&#10;#&#9;new file:   Book-Page.html&#10;#&#9;new file:   Search-1.html&#10;#&#9;new file:   Search-2.html&#10;#&#9;new file:   js/app.js&#10;#&#9;new file:   js/jay.js&#10;#&#9;new file:   js/metadata.js&#10;#&#9;new file:   js/script.js&#10;#&#9;new file:   style.css&#10;#&#10;" />
+    <MESSAGE value="# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is up-to-date with 'origin/master'.&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   .idea/zolaproj-jquery.iml&#10;#&#9;new file:   Book-Page.html&#10;#&#9;new file:   Search-1.html&#10;#&#9;new file:   Search-2.html&#10;#&#9;new file:   js/app.js&#10;#&#9;new file:   js/jay.js&#10;#&#9;new file:   js/metadata.js&#10;#&#9;new file:   js/script.js&#10;#&#9;new file:   style.css&#10;#&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is up-to-date with 'origin/master'.&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   .idea/zolaproj-jquery.iml&#10;#&#9;new file:   Book-Page.html&#10;#&#9;new file:   Search-1.html&#10;#&#9;new file:   Search-2.html&#10;#&#9;new file:   js/app.js&#10;#&#9;new file:   js/jay.js&#10;#&#9;new file:   js/metadata.js&#10;#&#9;new file:   js/script.js&#10;#&#9;new file:   style.css&#10;#&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
